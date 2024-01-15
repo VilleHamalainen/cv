@@ -4,7 +4,7 @@
 title: My CV
 description: Personal CV
 baseurl: "" # Leave empty for GitHub Pages
-
+url: "https://VilleHamalainen.github.io"
 # Build Configuration
 markdown: kramdown
 theme: jekyll-theme-cayman # Change the theme to "jekyll-theme-cayman"
