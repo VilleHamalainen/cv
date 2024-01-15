@@ -2,6 +2,7 @@
 - **Email:** johndoe@example.com
 - **Phone:** +123-456-7890
 - **LinkedIn:** [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+- **Facebook:** this is my facebook.
 
 ## Objective
 Experienced and dedicated Software Teacher with over 10 years of experience in instructing students in various software development technologies. Passionate about educating the next generation of software developers and staying current with the latest trends in technology.
