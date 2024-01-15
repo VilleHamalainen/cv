@@ -4,43 +4,18 @@
 title: My CV
 description: Personal CV
 baseurl: "" # Leave empty for GitHub Pages
-url: "https://username.github.io" # Your GitHub Pages URL
 
 # Build Configuration
 markdown: kramdown
-theme: minima # You can choose a different Jekyll theme if you prefer
+theme: jekyll-theme-cayman # Change the theme to "jekyll-theme-cayman"
 
 # GitHub Pages Configuration
 github:
   is_project_page: false
 
-# Navigation Links
-nav_links:
-  - text: Home
-    url: /
-  - text: About
-    url: /about
-  - text: Experience
-    url: /experience
-  - text: Education
-    url: /education
-  - text: Skills
-    url: /skills
-
-# Social Links
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/yourname/
-  - name: GitHub
-    url: https://github.com/yourusername
-
-# Customize Minima Theme
-minima:
-  author: Your Name
-  email: your.email@example.com
-  avatar: /assets/profile.jpg
-  social_links: # These are additional social links specific to the Minima theme
-    - name: Twitter
-      url: https://twitter.com/yourusername
+# Customize Cayman Theme
+cayman:
+  show_downloads: false # Hide download links for repository files
+  analytics: "" # Add your Google Analytics tracking code here if needed
 
 # Additional Configuration (you can add more as needed)
