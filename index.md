@@ -1,5 +1,3 @@
-# John Doe
-
 ## Contact Information
 - **Email:** johndoe@example.com
 - **Phone:** +123-456-7890
